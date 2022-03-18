@@ -1,0 +1,34 @@
+.calorie_in
+{
+    background-color:#556B2F;
+    color:white;
+}
+.calorie_out
+{
+  background-color:#FFA500;
+  color:white;
+}
+.calorie_display
+{
+    background-color:#20B2AA;
+    color: white;
+}
+h1{
+    text-align:center;
+    color:white;
+}
+.daily_tracker_error
+{
+    background-color: lightcoral;
+    text-align: center;
+    border:1px solid black;
+    font-size: 20px;
+}
+.calorie_in_daily{
+    background-color:#99C68E;
+
+}
+.calorie_out_daily{
+    background-color:#FFCCCB;
+
+}
